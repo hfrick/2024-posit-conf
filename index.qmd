@@ -361,22 +361,22 @@ tidymodels for time-to-event data
 
 . . .
 
-![](images/hex/rsample.png){.absolute top="200" left="50" width="150"} 
-![](images/hex/recipes.png){.absolute top="200" left="300" width="150"} 
-![](images/hex/workflows.png){.absolute top="120" left="425" width="150"} 
+![](images/hex/rsample.png){.absolute top="200" left="0" width="150"} 
+![](images/hex/recipes.png){.absolute top="200" left="250" width="150"} 
+![](images/hex/workflows.png){.absolute top="200" left="400" width="150"} 
 ![](images/hex/tune.png){.absolute top="200" left="1050" width="150"} 
 
 . . .
 
 <!-- + 133 down and + 76 to the left -->
-![](images/hex/spatialsample.png){.absolute top="333" left="126" width="150"} 
+![](images/hex/spatialsample.png){.absolute top="333" left="76" width="150"} 
 
-![](images/hex/textrecipes.png){.absolute top="333" left="376" width="150"} 
-![](images/hex/embed.png){.absolute top="466" left="300" width="150"} 
+![](images/hex/textrecipes.png){.absolute top="333" left="326" width="150"} 
+![](images/hex/embed.png){.absolute top="466" left="250" width="150"} 
 
 ![](images/hex/finetune.png){.absolute top="333" left="1126" width="150"} 
 
-![](images/hex/butcher.png){.absolute top="470" left="500" width="150"} 
+![](images/hex/butcher.png){.absolute top="470" left="450" width="150"} 
 
 . . .
 
