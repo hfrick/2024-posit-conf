@@ -40,6 +40,16 @@ theme_set(theme_minimal(base_size = 20))
 ![](images/collab-figures-talking.png){.absolute top="80" left="700" width="600"} 
 
 :::{.notes}
+
+- two questions
+- rebrand
+- broad application
+- all models are wrong
+- tailor-made
+- build intuition
+- tidymodels
+- toolbox
+
 :::
 
 
